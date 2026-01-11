@@ -50,6 +50,21 @@ This project was created to practice:
 2. Configure database connection in `db.php`
 3. Run the project using XAMPP / localhost
 
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshot/Login.png)
+
+### User Dashboard
+![User Dashboard](screenshot/Dashboard.png)
+
+### Add Ticket
+![Add Ticket](screenshot/Add-ticket.png)
+
+### Admin Dashboard
+![Add Ticket](screenshot/Admin-dashboard.png)
+
 ---
 
 **Note:**  
