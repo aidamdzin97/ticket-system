@@ -54,16 +54,16 @@ This project was created to practice:
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshot/Login.png)
+![Login Page](Screenshot/Login.png)
 
 ### User Dashboard
-![User Dashboard](screenshot/Dashboard.png)
+![User Dashboard](Screenshot/Dashboard.png)
 
 ### Add Ticket
-![Add Ticket](screenshot/Add-ticket.png)
+![Add Ticket](Screenshot/Add-ticket.png)
 
 ### Admin Dashboard
-![Add Ticket](screenshot/Admin-dashboard.png)
+![Add Ticket](Screenshot/Admin-dashboard.png)
 
 ---
 
